@@ -1,7 +1,7 @@
 ﻿<#
 .Synopsis
     Count TCP connections for a specific state
-    state in Established, TimeWait, SynSent, 
+    state in Established, TimeWait, SynSent 
 .DESCRIPTION
    <Check Active TCP sessions count>
 .PARAMETER <paramName>
