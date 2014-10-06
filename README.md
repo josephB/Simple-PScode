@@ -1,4 +1,4 @@
 Simple-PScode
 =============
 
-simple PowerShel scriptlet
+simple PowerShell scriptlets
